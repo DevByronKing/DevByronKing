@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋! Eu sou o Ryan</h1>
-<h3 align="center">Desenvolvedor apaixonado por tecnologia, inovação e boas práticas de código.</h3>
+<h1 align="center">Olá 👋! Eu sou Henrique Barbosa</h1>
+<h3 align="center">Cientista de Dados JR | Focado em IA e Machine Learning</h3>
 
 ---
 
