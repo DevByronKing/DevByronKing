@@ -1,6 +1,8 @@
 <h1 align="center">Olá 👋! Eu sou Henrique Barbosa</h1>
 <h3 align="center">Cientista de Dados JR | Focado em IA e Machine Learning</h3>
 
+Sou um profissional em formação e um entusiasta da tecnologia, atualmente cursando Ciência de Dados. Minha jornada na área de dados foi impulsionada por um forte interesse em Inteligência Artificial, Machine Learning e Engenharia de Prompt. Meu grande objetivo é utilizar minhas habilidades técnicas para criar e aprimorar soluções inovadoras baseadas em IA, transformando dados em insights e automações que geram impacto real
+
 ---
 
 ### 🚀 Minhas Stacks
