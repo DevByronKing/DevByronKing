@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋! Eu sou Henrique Barbosa</h1>
 <h3 align="center">Cientista de Dados | Focado em IA e Machine Learning</h3>
 
-Profissional Cientista de Dados/Eng. de IA, Certificado em Ia Generativa Professional Oracle 
+Profissional Cientista de Dados/Eng. de IA, Certificado em Ia Generativa Professional Oracle.
 Minha jornada é impulsionada por um forte interesse em Inteligência Artificial Generativa, Deep Learning e Machine Learning. Meu grande objetivo é utilizar minhas habilidades técnicas para criar e aprimorar soluções inovadoras baseadas em IA, transformando dados em insights, automações que geram impacto real e realizar transformações tecnológicas
 
 ---
